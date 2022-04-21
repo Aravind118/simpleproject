@@ -1,0 +1,12 @@
+.card{
+  width: 800px;
+  
+  left:350px
+}
+.styles{
+  padding: 5px;
+  margin: 3px;
+}
+.dropdown_class{
+  width: 88% !important;
+}
